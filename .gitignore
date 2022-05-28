@@ -1,5 +1,5 @@
 /drf_server/config.py
-/venv/
+venv
 .idea
-drf_server/__pycache__/
-users_consumers/__pycache__/
+__pycache__/
+*/__pycache__/
